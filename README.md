@@ -17,20 +17,25 @@ Students gain a deep understanding of HTML (Hypertext Markup Language) and CSS (
 
 ### Course Learning Objectives
 - Strong understanding of HTML and CSS fundamentals
--  Ability to write semantic, valid, and reusable HTML and CSS
--  Ability to translate design mockups into working code
--  Understanding of web accessibility
--  Functional understanding of modern version control
+- Ability to write semantic, valid, and reusable HTML and CSS
+- Ability to translate design mockups into working code
+- Understanding of web accessibility
+- Functional understanding of modern version control
 
 ### Course Format
 Each week, students will be watch pre-recorded lectures covering _new_ material. All classes happen online, using some combination of _Adobe Connect_ and _Panopto_. Detailed information about these programs is available on the UW Canvas website for the course.
 
-As much as possible, classes will be in the style of a workshop: a technique or concept will be demonstrated, and then you will have time to practice it. Weekly assignments will build upon concepts taught in class. I believe the best way to learn to code is to do it, and my role is to facilitate your explorations. 
+As much as possible, classes will be in the style of a workshop: a technique or concept will be demonstrated, and then you will have time to practice it. Weekly assignments will build upon concepts taught in class. I believe the best way to learn to code is to do it, and my role is to facilitate your explorations.
 
-### Course Materials
+#### Course Tools
+- **[Canvas](https://canvas.uw.edu/courses/1105438):** Our online learning tool. You will turn in homework, take quizzes, and receive assignments here
+- **[Slack](https://uwpce-sp17-webdev.slack.com/)**: Used for in-class discussion, attendance, & assignments. [Use this link to signup](https://uwpce-sp17-webdev.slack.com/shared_invite/MTQ1ODE1MDA1MTIwLTE0ODgwNjQ3MzEtMjY5M2IwNjRiZg)
+- **[Panopto]()**
+
+#### Course Materials
 Students are expected to do independent research online as necessary. Online articles and tutorials will be suggested. 
 
-### Technical Requirements 
+#### Technical Requirements 
 Students will be required to have a computer and fast internet connection. Computers must be running a modern operating system: Windows XP or later, Mac OSX 10.6 or later, or a recent distribution of Linux (Ubuntu or Mint preferred).
 
 Students will need regular access to the internet and their email to successfully complete the coursework. 
@@ -52,7 +57,7 @@ Students will need regular access to the internet and their email to successfull
 | 04/04/17 | Design Patterns & Libraries                 | Site Update: CSS Framework   | 5pts, 4/11    |
 | 04/06/17 | Web Accessibility                           | Site Update: a11y Features   | 5pts, 4/11    |
 
-### Student Assessment
+#### Student Assessment
 - **Assignments:** 5-20 points each (varies by project size), 80 points total
 - **Participation:** in-class exercises and discussions, 20 points 
 - **TOTAL POINTS:** 100 

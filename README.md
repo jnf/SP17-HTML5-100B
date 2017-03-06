@@ -29,7 +29,7 @@ As much as possible, classes will be in the style of a workshop: a technique or 
 
 #### Course Tools
 - **[Canvas](https://canvas.uw.edu/courses/1105438):** Our online learning tool. You will turn in homework, take quizzes, and receive assignments here
-- **[Slack](https://uwpce-sp17-webdev.slack.com/)**: Used for in-class discussion, attendance, & assignments. [Use this link to signup](https://uwpce-sp17-webdev.slack.com/shared_invite/MTQ1ODE1MDA1MTIwLTE0ODgwNjQ3MzEtMjY5M2IwNjRiZg)
+- **[Slack](https://uwpce-sp17-webdev.slack.com/)**: Used for in-class discussion, attendance, & assignments. [Use this link to signup](https://uwpce-sp17-webdev.slack.com/shared_invite/MTQ5MzQ3Mjg4ODgxLTE0ODg3Nzg0MDUtN2MxZjFmM2RhMQ)
 - **[Panopto]()**
 
 #### Course Materials

@@ -54,13 +54,13 @@ Students will need regular access to the internet and their email to successfull
 | 03/23/17 | Fundamentals of UX; Interactive CSS         | Site Update: CSS Interaction | 5pts, 3/27    |
 | 03/27/17 | Software Project Planning & Lifecycle       | Client Site Plan             | 5pts, 3/30    |
 | 03/30/17 | Working Session: Client Site                | Client Site Implementation   | 15pts, 4/6    |
-| 04/03/17 | Design Patterns & Libraries                 | Site Update: CSS Framework   | 5pts, 4/6     |
-| 04/06/17 | Web Accessibility                           | Site Update: a11y Features   | 5pts, 4/6     |
+| 04/03/17 | Design Patterns & Libraries                 | Site Update: CSS Framework   | ---           |
+| 04/06/17 | Web Accessibility                           | Site Update: a11y Features   | ---           |
 
 #### Student Assessment
-- **Assignments:** 5-20 points each (varies by project size), 80 points total
+- **Assignments:** 5-20 points each (varies by project size), 70 points total
 - **Participation:** in-class exercises and discussions, 20 points
-- **TOTAL POINTS:** 100
+- **TOTAL POINTS:** 90
 
 ### Policies and Core Values
 The classroom is a place of respect and equity. All students' learning needs are important. All students' ideas and points of view are valuable. I expect students to behave professionally at all times and to never engage in bullying or harassment. The core values of the classroom are curiosity, kindness, and empathy.
